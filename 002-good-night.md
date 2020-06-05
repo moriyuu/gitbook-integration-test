@@ -1,5 +1,6 @@
 # Good night
 
-```js
-const SEE_YOU = 'tomorrow' 
+```javascript
+const SEE_YOU = 'tomorrow'
 ```
+
