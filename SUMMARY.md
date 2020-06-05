@@ -11,13 +11,12 @@
   * [Untitled](test-posts/hogehoge/untitled/README.md)
     * [Untitled](test-posts/hogehoge/untitled/untitled/README.md)
       * [Untitled](test-posts/hogehoge/untitled/untitled/untitled.md)
-
-
 * [parent](parent/README.md)
   * [child1](parent/child1.md)
 
 ## Recipe
 
-- [recipe](recipe/README.md)
-  - [sweetpotato](recipe/sweetpotato.md)
-  - [curry](recipe/curry.md)
+* [recipe](recipe/recipe/README.md)
+  * [sweetpotato](recipe/recipe/sweetpotato.md)
+  * [curry](recipe/recipe/curry.md)
+
