@@ -10,4 +10,6 @@
   * [Untitled](test-posts/hogehoge/untitled/README.md)
     * [Untitled](test-posts/hogehoge/untitled/untitled/README.md)
       * [Untitled](test-posts/hogehoge/untitled/untitled/untitled.md)
+* [parent](parent/README.md)
+  * [child1](parent/child1.md)
 
